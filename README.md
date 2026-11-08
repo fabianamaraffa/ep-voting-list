@@ -1,5 +1,6 @@
 ---
 title: EP Voting List Generator
+**[Try the live demo on Hugging Face](https://huggingface.co/spaces/Fabianamaraffa/ep-voting-list)**
 emoji: 🗳️
 colorFrom: gray
 colorTo: blue
