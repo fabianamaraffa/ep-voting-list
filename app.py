@@ -93,9 +93,8 @@ else:
 # ------------------------------------------------------------------------------
 # Gradio callbacks
 # ------------------------------------------------------------------------------
-DEFAULT_PRIORITIES = """Safeguard a dedicated budget for youth employment, NEETs and quality apprenticeships.
-Keep civil society organisations and youth NGOs able to access grants directly and simply.
-Oppose transfers that divert social cohesion resources to defence or corporate subsidies."""
+DEFAULT_PRIORITIES = """Safeguard a dedicated budget civil society organisations and keep NGOs able to access grants directly and simply.
+Oppose transfers that divert social cohesion resources."""
 
 
 def analyse(pdf_file, priorities: str, threshold: float, max_items: int, progress=gr.Progress()):
