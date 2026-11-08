@@ -12,6 +12,7 @@ pinned: false
 
 # EP Voting List Generator
 **[Try the live demo on Hugging Face](https://huggingface.co/spaces/Fabianamaraffa/ep-voting-list)**
+
 Upload the amendments PDF of a European Parliament committee, write your organisation's
 priorities and red lines, and get a draft **voting list**: for each relevant amendment the
 authors, the location in the text, the current and amended wording, a recommended vote
